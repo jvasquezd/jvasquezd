@@ -6,8 +6,11 @@
   <a href="https://linkedin.com/in/jvasquezenrique"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Spring Boot**
+- 🌱 I’m currently learning **Jetpack Compose, Dagger Hilt, Spring Boot**
+- 🤝 I’m looking for help with **UI/UX Design**
+- 💬 Ask me about **Android development, Java, Kotlin**
 - 📫 How to contact me: www.linkedin.com/in/jvasquezenrique
+- ⚡ Fun fact **I love traveling and photography**
   
     <h3 align="center">Skills</h3>
     <p align="center">
