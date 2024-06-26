@@ -43,20 +43,20 @@
       </a>
 </p>
 
-### GitHub Profile Trophy
-
   <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvasquezd&show_icons=true&locale=en" alt="yourusername" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvasquezd&show_icons=true&locale=en" alt="jvasquezd" />
   </p>
     
   <p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvasquezd&" alt="yourusername" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvasquezd&" alt="jvasquezd" />
   </p>
     
   <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvasquezd&show_icons=true&locale=en&layout=compact" alt="yourusername" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvasquezd&show_icons=true&locale=en&layout=compact" alt="jvasquezd" />
   </p>
-    
+  
+  ### GitHub Profile Trophy
+  
   <p align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=jvasquezd&theme=onedark" alt="GitHub Profile Trophy">
   </p>
