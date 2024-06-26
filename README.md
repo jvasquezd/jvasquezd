@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
-<h3 align="center"> 📱 Android Developer from Peru</h3>
+<h3 align="center"> 📱 Android Developer</h3>
 
 <p align="center">
   <a href="https://github.com/jvasquezd"><img src="https://img.shields.io/github/followers/jvasquezd?label=Follow&style=social" alt="GitHub Badge"></a>
