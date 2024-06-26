@@ -42,6 +42,8 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
 </p>
+ 
+### GitHub Stats
 
   <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvasquezd&show_icons=true&locale=en" alt="jvasquezd" />
