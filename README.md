@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/jvasquezenrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
     
-<h3 align="left">Skills</h3>
+<h3 align="center">Skills</h3>
     <p align="center">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
