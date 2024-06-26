@@ -11,6 +11,11 @@
 - 💬 Ask me about **Android development, Java, Kotlin**
 - 📫 How to contact me: www.linkedin.com/in/jvasquezenrique
 - ⚡ Fun fact **I love traveling and photography**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+   <a href="https://linkedin.com/in/jvasquezenrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
   
     <h3 align="center">Skills</h3>
     <p align="center">
