@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 <h3 align="center"> 📱 Android Developer from Peru</h3>
-    
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-    
+
 <p align="center">
   <a href="https://github.com/jvasquezd"><img src="https://img.shields.io/github/followers/jvasquezd?label=Follow&style=social" alt="GitHub Badge"></a>
   <a href="https://linkedin.com/in/jvasquezenrique"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
