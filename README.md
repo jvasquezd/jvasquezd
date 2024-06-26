@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
-<h3 align="center"> 📱 Android Developer</h3>
+<h3 align="center"> 📱 Android Developer | Backend Developer </h3>
 
 <p align="center">
   <a href="https://github.com/jvasquezd"><img src="https://img.shields.io/github/followers/jvasquezd?label=Follow&style=social" alt="GitHub Badge"></a>
   <a href="https://linkedin.com/in/jvasquezenrique"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"></a>
 </p>
+
+### About Me
 
 - 🌱 I’m currently learning **Jetpack Compose, Dagger Hilt, Spring Boot**
 - 🤝 I’m looking for help with **UI/UX Design**
@@ -13,7 +15,8 @@
 - ⚡ Fun fact **I love traveling and photography**
 
 
-<h3 align="center">Connect with me</h3>
+ ### Connect with me:
+ 
 <p align="center">
   <a href="https://linkedin.com/in/jvasquezenrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
 </p>
@@ -40,10 +43,11 @@
       </a>
 </p>
 
-  <h3 align="center">GitHub Stats:</h3>
-    <p align="center">
+### GitHub Profile Trophy
+
+  <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvasquezd&show_icons=true&locale=en" alt="yourusername" />
-    </p>
+  </p>
     
   <p align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvasquezd&" alt="yourusername" />
